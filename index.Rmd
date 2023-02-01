@@ -1,0 +1,27 @@
+---
+Title: "Susan Davis"
+output: distill::distill_article
+---
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmarkdown)
+library(knitr)
+```
+
+# My Portfolio
+
+  Welcome to my portfolio website! I hope to use this space to track my learning of data science throughout my college courses and independent work. You can find information about my coding projects as well as personal life updates in the blog section. 
+
+# About Me
+
+I originally was born in Durham but spent most of my life in Cary North Carolina. I now live in Chapel Hill where I am a full time student at the University of North Carolina at Chapel Hill. I am working towards a Bachelor of Science in Statistics and Analytics with minors in Data Science and Biology and plan to graduate in spring 2024.
+  
+  Outside of my classes I work as an Undergraduate Learning Assistant for two classes: Writing in Health Medicine (ENGL 105I), as well as Special Topics in Interdisciplinary Studies Lab (IDSTL190). As a ULA I work one on one with students during office hours to help them with class topics as well as assignments. In ENGL 105I my main focus is to help freshman students learn how to effectively write for careers in STEM. I also aim to be a mentor that students can come to for guidance as they are navigate their first year on campus. In IDSTL190, while I do assist students as needed, my work is more centered around helping build the class in its initial years. Each semester I find data sets that relate to the special topics of each class section. I then work with other ULAs to clean these sets and use them to build assignments for students in R, Excel, and Tableau. Students use these resources to learn data cleaning, data transformation, data visualization, and data communication. 
+  
+```{r echo=FALSE, out.width = "30%", fig.align = "center"}
+knitr::include_graphics("/Users/susandavis/desktop/climbing2.jpEg")
+
+```
+
+When I am not in the Stats building or in office hours, I can typically be found at the rock wall. Climbing has been one of my passions since I was 12 years old and I have been lucky to be able to continue doing the sport I love through my job at the UNC campus climbing walls. With an amazing community of climbers and friends I feel like I have been to find my place at UNC. I am so happy to be able to give back to them all through managing the wall and teaching climbing classes. I can't wait to see all the adventures that come out of this semester at the walls. 
+  
